@@ -2,7 +2,7 @@
 # GenAI Assistant Chatbot for e& Portal
 
 
-![e&-ITI Collaboration ](images/e&-ITI.jpg)
+![e&-ITI Collaboration](images/e&-ITI.jpg)
 
 
 An AI-powered assistant chatbot built for the **e& portal**, offering contextual and intelligent interaction by leveraging state-of-the-art techniques in large language model fine-tuning and optimization.
