@@ -46,7 +46,7 @@ This project is part of our ITI graduation project. It aims to develop a **Gener
 - [x] Set up environment and LLaMA Factory
 - [x] Applied fine-tuning with LoRA and QLoRA
 - [x] Tested PEFT integration
-- [ ] Scraping structured data from e& portal
+- [x] Scraping structured data from e& portal
 - [ ] Knowledge integration into chatbot memory
 - [ ] Final deployment via portal interface
 
