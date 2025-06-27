@@ -1,0 +1,169 @@
+{
+  "url": "https://www.eand.com.eg/StaticFiles/portal2/etisalat/pages/services/traveling_to_egypt.html",
+  "title": "إي آند مصر| السفر الى مصر",
+  "data_packages": {
+    "traveler_200": {
+      "name": "ترافلر 200",
+      "price": "200 جنيه",
+      "renewable": "غير متجددة",
+      "data": "7 جيجا بايت",
+      "local_minutes": "100",
+      "international_calls": "5"
+    },
+    "traveler_300": {
+      "name": "ترافلر 300",
+      "price": "300 جنيه",
+      "renewable": "غير متجددة",
+      "data": "12 جيجا بايت",
+      "local_minutes": "250",
+      "international_calls": "10"
+    },
+    "traveler_450": {
+      "name": "ترافلر 450",
+      "price": "450 جنيه",
+      "renewable": "متجددة 3 مرات فقط",
+      "data": "25 جيجا بايت",
+      "local_minutes": "250",
+      "international_calls": "20"
+    },
+    "traveler_600": {
+      "name": "ترافلر 600",
+      "price": "600 جنيه",
+      "renewable": "متجددة 3 مرات فقط",
+      "data": "40 جيجا بايت",
+      "local_minutes": "400",
+      "international_calls": "30"
+    }
+  },
+  "terms_conditions": [
+    "جميع الأسعار شاملة الضريبة و SDF",
+    "لتجديد الباقة اتصل على الرقم *620#",
+    "الباقة تنطبق فقط على السائحين الذين يزورون مصر",
+    "سيتم ترحيل الميجا بايت غير المستخدمة في حالة تجديد الباقة"
+  ],
+  "country_info": {
+    "name": "جمهورية مصر العربية",
+    "capital": "القاهرة",
+    "official_language": "العربية",
+    "currency": "الجنية المصرى",
+    "timezone": "إضافة ساعتين عن التوقيت العالمي",
+    "area": "١٠١،٤٠٧كم²",
+    "population": "101 مليون"
+  },
+  "emergency_numbers": {
+    "tourist_police": "126",
+    "ambulance": "123",
+    "phone_directory": "140",
+    "fire_service": "180",
+    "police": "122",
+    "cairo_airport": "19970"
+  },
+  "history": {
+    "title": "تاريخ مصر",
+    "description": "تمتلك مصر أقدم تاريخ في أي دولة حديثة ، والتي نشأت في الألفية العاشرة قبل الميلاد كواحدة من أولى الدول القومية في العالم. تعتبر مهد الحضارة ، وقد شهدت مصر القديمة بعض التطورات المبكرة للبشرية في الكتابة والزراعة والتحضر والدين والحكومة المركزية.",
+    "monuments": "تشتهر مصر بحضارة من أقدم الحضارات ويتواجد بها ثلث آثار العالم - مثل أهرامات الجيزة وأبو الهول، ومعبد الكرنك والدير البحري ووادي الملوك وآثارها القديمة الأخرى في مدينة منف وطيبة والكرنك"
+  },
+  "travel_advice": {
+    "tips": [
+      "احرص دائمًا على احمل وثيقة تثبت هويتك",
+      "احمل معك بعض النقود عند التوجه إلى الأماكن النائية",
+      "احترم عادات البلد وقواعد الملابس المحافظه"
+    ],
+    "warnings": [
+      "لا تلتقط صورًا في مكان يُمنع فيه التصوير",
+      "لا تشعر بأنك مجبر على دفع البقشيش لأي شخص لقاء أي خدمة"
+    ]
+  },
+  "images_with_text": [
+    {
+      "src": "https://www.eand.com.eg/StaticFiles/portal2/etisalat/images/logo/etisalat_logo.svg",
+      "alt": "e& egypt loader",
+      "original_src": "../../images/logo/etisalat_logo.svg",
+      "extracted_text": "SVG file - text extraction not applicable",
+      "has_text": true
+    },
+    {
+      "src": "https://www.eand.com.eg/StaticFiles/portal2/etisalat/images/new/icn-Card-View-white.svg",
+      "alt": "",
+      "original_src": "../../images/new/icn-Card-View-white.svg",
+      "extracted_text": "SVG file - text extraction not applicable",
+      "has_text": true
+    },
+    {
+      "src": "https://www.eand.com.eg/StaticFiles/portal2/etisalat/images/new/icn-Card-View.svg",
+      "alt": "",
+      "original_src": "../../images/new/icn-Card-View.svg",
+      "extracted_text": "SVG file - text extraction not applicable",
+      "has_text": true
+    },
+    {
+      "src": "https://www.eand.com.eg/StaticFiles/portal2/etisalat/images/new/icn-table-view-white.svg",
+      "alt": "",
+      "original_src": "../../images/new/icn-table-view-white.svg",
+      "extracted_text": "SVG file - text extraction not applicable",
+      "has_text": true
+    },
+    {
+      "src": "https://www.eand.com.eg/StaticFiles/portal2/etisalat/images/new/icn-table-view.svg",
+      "alt": "",
+      "original_src": "../../images/new/icn-table-view.svg",
+      "extracted_text": "SVG file - text extraction not applicable",
+      "has_text": true
+    },
+    {
+      "src": "https://www.eand.com.eg/StaticFiles/portal2/etisalat/images/new/blueCircle.png",
+      "alt": "star-image",
+      "original_src": "../../images/new/blueCircle.png",
+      "extracted_text": "4 86 (Confidence: 36.0%)",
+      "has_text": true
+    },
+    {
+      "src": "https://www.eand.com.eg/StaticFiles/portal2/etisalat/images/new/read-about-icon.png",
+      "alt": "",
+      "original_src": "../../images/new/read-about-icon.png",
+      "extracted_text": "2 x   N N XN N A     r         fi Y   ra a a a  a ae (Confidence: 32.0%)",
+      "has_text": true
+    },
+    {
+      "src": "https://www.eand.com.eg/StaticFiles/portal2/etisalat/images/inner-pages-images/history-of-egypt-1.png",
+      "alt": "egypt",
+      "original_src": "../../images/inner-pages-images/history-of-egypt-1.png",
+      "extracted_text": "    ss  (Confidence: 33.7%)",
+      "has_text": true
+    },
+    {
+      "src": "https://www.eand.com.eg/StaticFiles/portal2/etisalat/images/inner-pages-images/history-of-egypt-2.png",
+      "alt": "egypt",
+      "original_src": "../../images/inner-pages-images/history-of-egypt-2.png",
+      "extracted_text": "fonraCa ae eet Mo gears (Confidence: 36.7%)",
+      "has_text": true
+    },
+    {
+      "src": "https://www.eand.com.eg/StaticFiles/portal2/etisalat/images/app-mobile-view.png",
+      "alt": "My e& egypt app",
+      "original_src": "../../images/app-mobile-view.png",
+      "extracted_text": "EE (Confidence: 64.0%)",
+      "has_text": true
+    },
+    {
+      "src": "https://www.eand.com.eg/StaticFiles/portal2/etisalat/images/app-mobile-view.png",
+      "alt": "My e& egypt app",
+      "original_src": "../../images/app-mobile-view.png",
+      "extracted_text": "EE (Confidence: 64.0%)",
+      "has_text": true
+    }
+  ],
+  "links": [],
+  "full_text": "إي آند مصر| السفر الى مصر\nباقة\nالداتا\nمميزات\nموبايل انترنت\nدقايق محلية\nمكالمات دولية\nترافلر 200\n200 جنيه\nغير متجددة\nترافلر 300\n300 جنيه\nغير متجددة\nترافلر 450\n450 جنيه\nمتجددة 3 مرات فقط\nترافلر 600\n600 جنيه\nمتجددة 3 مرات فقط\n7 جيجا بايت\n12 جيجا بايت\n25 جيجا بايت\n40 جيجا بايت\n100\n250\n250\n400\n5\n10\n20\n30\nترافلر\n200\n200 جنيه\nغير\nمتجددة\nموبايل انترنت :\n7\nجيجا بايت\nدقايق محلية :\n100\nمكالمات دولية :\n5\nترافلر\n300\n300 جنيه\nغير\nمتجددة\nموبايل انترنت :\n12\nجيجا بايت\nدقايق محلية :\n250\nمكالمات دولية :\n10\nترافلر\n450\n450 جنيه\nمتجددة\n3 مرات فقط\nموبايل انترنت :\n25\nجيجا بايت\nدقايق محلية :\n250\nمكالمات دولية :\n20\nترافلر\n600\n600 جنيه\nمتجددة\n3 مرات فقط\nموبايل انترنت :\n40\nجيجا بايت\nدقايق محلية :\n400\nمكالمات دولية :\n30\nالشروط و\nالاحكام\n1 ⚊ جميع الأسعار شاملة الضريبة و SDF\n2 ⚊ لتجديد الباقة اتصل على الرقم *620#\n3 ⚊ الباقة تنطبق فقط على السائحين الذين يزورون مصر.\n4 ⚊ سيتم ترحيل الميجا بايت غير المستخدمة في حالة تجديد الباقة.\nنصائح\nهامة\nجمهورية مصر العربية\n— معلومات قد تفيدك اثناء اقامتك معنا\nالقاهرة\nالعاصمة\nالعربية\nاللغة الرسمية\nالجنية المصرى\nالعملة\nإضافة ساعتين عن التوقيت العالمي\nوحدة زمنية\n١٠١،٤٠٧كم²\nالمساحة\n101 مليون\nالكثافة السكانية\nأرقام الطوارىء\n— معلومات قد تفيدك اثناء اقامتك معنا\n126\nشرطة السياحة\n123\nالإسعاف\n140\nدليل الهاتف\n180\nخدمة الإطفاء\n122\nالشرطة\n19970\nمطار القاهرة\nتاريخ مصر\nمصر\nتمتلك مصر أقدم تاريخ في أي دولة حديثة ، والتي نشأت\nفي الألفية العاشرة قبل الميلاد كواحدة من أولى الدول القومية في العالم. تعتبر\nمهد الحضارة ، وقد شهدت مصر القديمة بعض التطورات المبكرة للبشرية في الكتابة\nوالزراعة والتحضر والدين والحكومة المركزية.\nالجواهر من مصر\nتشتهر مصر بحضارة من أقدم الحضارات ويتواجد بها ثلث\nآثار العالم - مثل أهرامات الجيزة وأبو الهول، ومعبد الكرنك والدير البحري\nووادي الملوك وآثارها القديمة الأخرى في مدينة منف وطيبة والكرنك. ويتم عرض\nنماذج من هذه الآثار في المتاحف الكبرى في جميع أنحاء العالم، حيث انهم يرمزوا\nالى تاريخ مصر الروماني والإغريقي والقبطي والإسلامي بمختلف عصوره.\nنصائح\n— احرص دائمًا على احمل وثيقة تثبت هويتك.\n— احمل معك بعض النقود عند التوجه إلى الأماكن\nالنائية.\n— احترم عادات البلد وقواعد الملابس المحافظه.\nتجنب\n— لا تلتقط صورًا في مكان يُمنع فيه التصوير.\n— لا تشعر بأنك مجبر على دفع البقشيش لأي شخص لقاء أي\nخدمة.\n–\nx\nContinue\non our app “My e& egypt”\nAvailable for IOS & Android\nUse My e& egypt",
+  "meta_data": {
+    "robots": "INDEX,FOLLOW",
+    "X-UA-Compatible": "IE=edge",
+    "viewport": "width=device-width, initial-scale=1.0",
+    "og:title": "السفر الى مصر",
+    "og:image": "./images/logo/ET_Logo-2.png",
+    "og:type": "website",
+    "description": "تجول مع  إي آند مصر و اطمئن أنك سوف تتمتع بنوعية ممتازة من تغطية الشبكة\r\n\r\n            ",
+    "twitter:card": "summary",
+    "og:site_name": "e& egypt"
+  }
+}
