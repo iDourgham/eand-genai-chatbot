@@ -1,0 +1,98 @@
+{
+  "plan_1": {
+    "name": "دماغ\n                                                                                تانية 40",
+    "data": "1250 ميجابايتس",
+    "units": "300 وحدة",
+    "apps": "تطبيق واحد",
+    "extra_services": "twistSporttwist Music",
+    "extra_subscriptions": "VIU"
+  },
+  "plan_2": {
+    "name": "دماغ\n                                                                                تانية 50",
+    "data": "2100 ميجابايتس",
+    "units": "300 وحدة",
+    "apps": "تطبيق واحد",
+    "extra_services": "twist Sporttwist Music",
+    "extra_subscriptions": "VIU"
+  },
+  "plan_3": {
+    "name": "دماغ\n                                                                                تانية 70",
+    "data": "3250 ميجابايتس",
+    "units": "300 وحدة",
+    "apps": "لحد تطبيقين",
+    "extra_services": "twistSporttwist MusicTwist\n                                                                                        TV",
+    "extra_subscriptions": "VIU"
+  },
+  "plan_4": {
+    "name": "دماغ\n                                                                                تانية 90",
+    "data": "4750 ميجابايتس",
+    "units": "300 وحدة",
+    "apps": "لحد تطبيقين",
+    "extra_services": "twistSporttwist MusicTwist\n                                                                                        TV",
+    "extra_subscriptions": "VIU"
+  },
+  "plan_5": {
+    "name": "دماغ\n                                                                                تانية 115",
+    "data": "6750 ميجابايتس",
+    "units": "300 وحدة",
+    "apps": "لحد تطبيقين",
+    "extra_services": "twistSporttwist MusicTwist\n                                                                                        TV",
+    "extra_subscriptions": "VIU"
+  },
+  "plan_6": {
+    "name": "دماغ\n                                                                                تانية 145",
+    "data": "8750 ميجابايتس",
+    "units": "300 وحدة",
+    "apps": "لحد تطبيقين",
+    "extra_services": "twistSporttwist MusicTwist\n                                                                                        TV",
+    "extra_subscriptions": "VIU"
+  },
+  "plan_7": {
+    "name": "دماغ\n                                                                                تانية 180",
+    "data": "11500 ميجابايتس",
+    "units": "300 وحدة",
+    "apps": "لحد ثلاث طبيقات",
+    "extra_services": "twistSporttwist MusicTwist\n                                                                                        TV",
+    "extra_subscriptions": "VIU"
+  },
+  "plan_8": {
+    "name": "دماغ\n                                                                                تانية 235",
+    "data": "15000 ميجابايتس",
+    "units": "300 وحدة",
+    "apps": "لحد ثلاث طبيقات",
+    "extra_services": "twistSporttwist MusicTwist\n                                                                                        TV",
+    "extra_subscriptions": "VIU"
+  },
+  "plan_9": {
+    "name": "دماغ\n                                                                                تانية 300",
+    "data": "20000 ميجابايتس",
+    "units": "300 وحدة",
+    "apps": "لحد ثلاث طبيقات",
+    "extra_services": "twistSporttwist MusicTwist\n                                                                                        TV",
+    "extra_subscriptions": "VIU"
+  },
+  "plan_10": {
+    "name": "دماغ\n                                                                                تانية 360",
+    "data": "25000 ميجابايتس",
+    "units": "300 وحدة",
+    "apps": "لحد ثلاث طبيقات",
+    "extra_services": "twistSporttwist MusicTwist\n                                                                                        TV",
+    "extra_subscriptions": "VIU"
+  },
+  "plan_11": {
+    "name": "دماغ\n                                                                                تانية 415",
+    "data": "30000 ميجابايتس",
+    "units": "300 وحدة",
+    "apps": "لحد ثلاث طبيقات",
+    "extra_services": "twistSporttwist MusicTwist\n                                                                                        TV",
+    "extra_subscriptions": "VIUTOD"
+  },
+  "plan_12": {
+    "name": "دماغ\n                                                                                تانية 520",
+    "data": "50000 ميجابايتس",
+    "units": "300 وحدة",
+    "apps": "لحد ثلاث طبيقات",
+    "extra_services": "twistSporttwist MusicTwist\n                                                                                        TV",
+    "extra_subscriptions": "VIUTOD"
+  }
+}
