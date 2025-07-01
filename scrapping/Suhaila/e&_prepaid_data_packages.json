@@ -1,0 +1,113 @@
+{
+  "page_info": {
+    "url": "https://www.eand.com.eg/StaticFiles/portal2/etisalat/pages/super_connect_home/prepaid_bundles.html",
+    "title": "باقات الداتا المدفوعة مقدما",
+    "description": "النت مكمل كده كده مع باقات الداتا المدفوعة مقدما بصلاحية شهر، ثلاث شهور أو ستة أشهر"
+  },
+  "main_packages": [
+    {
+      "price": 40,
+      "currency": "جنية",
+      "validity": "شهر واحد",
+      "data_amount": "3600 ميجا بايت",
+      "offer_description": "عرض ضعف الباقة - ميجا بايت"
+    },
+    {
+      "price": 60,
+      "currency": "جنية",
+      "validity": "شهر واحد",
+      "data_amount": "5000 ميجا بايت",
+      "offer_description": "عرض ضعف الباقة - ميجا بايت"
+    },
+    {
+      "price": 80,
+      "currency": "جنية",
+      "validity": "ثلاثة اشهر",
+      "data_amount": "7000 ميجا بايت",
+      "offer_description": "عرض ضعف الباقة - ميجا بايت"
+    },
+    {
+      "price": 130,
+      "currency": "جنية",
+      "validity": "ثلاثة اشهر",
+      "data_amount": "16000 ميجا بايت",
+      "offer_description": "عرض ضعف الباقة - ميجا بايت"
+    },
+    {
+      "price": 195,
+      "currency": "جنية",
+      "validity": "ثلاثة اشهر",
+      "data_amount": "28000 ميجا بايت",
+      "offer_description": "عرض ضعف الباقة - ميجا بايت"
+    },
+    {
+      "price": 325,
+      "currency": "جنية",
+      "validity": "ثلاثة اشهر",
+      "data_amount": "50000 ميجا بايت",
+      "offer_description": "عرض ضعف الباقة - ميجا بايت"
+    },
+    {
+      "price": 520,
+      "currency": "جنية",
+      "validity": "ثلاثة اشهر",
+      "data_amount": "90000 ميجا بايت",
+      "offer_description": "عرض ضعف الباقة - ميجا بايت"
+    },
+    {
+      "price": 780,
+      "currency": "جنية",
+      "validity": "ستة اشهر",
+      "data_amount": "144000 ميجا بايت",
+      "offer_description": "عرض ضعف الباقة - ميجا بايت"
+    }
+  ],
+  "additional_packages": [
+    {
+      "name": "أكسترا 500 ميجا",
+      "price": 13,
+      "currency": "جنية",
+      "validity": "شهر واحد",
+      "data_amount": "500 ميجابايت",
+      "activation_code": "ارسل 1 ل 138 في رسالة"
+    },
+    {
+      "name": "أكسترا 1 جيجا",
+      "price": 25,
+      "currency": "جنية",
+      "validity": "شهر واحد",
+      "data_amount": "1 جيجابايت",
+      "activation_code": "ارسل 2 ل 138 في رسالة"
+    }
+  ],
+  "package_features": [
+    {
+      "number": "1",
+      "description": "يمكنك التحكم في الباقة عن طريق تطبيق ماي إي آند مصراو الاتصال ب #130*"
+    },
+    {
+      "number": "2",
+      "description": "أسعار الباقات غير شاملة الضريبة"
+    },
+    {
+      "number": "3",
+      "description": "عرض ضعف الباقة متاح مع اول شحنة فقط لكل باقات الداتا"
+    },
+    {
+      "number": "4",
+      "description": "الباقات تعمل على أجهزة الداتا الMiFi والUSB Modem"
+    },
+    {
+      "number": "5",
+      "description": "تجديد الباقة عن طريق ارسال رسالة ب1 ل 130 او الاتصال ب#130*"
+    },
+    {
+      "number": "6",
+      "description": "الاشتراك في خدمة 25 قرش للميجا عن طريق ارسال رسالة ب1 ل 139 او الاتصال ب#130*"
+    },
+    {
+      "number": "7",
+      "description": "صلاحية عرض ضعف الباقة تتبع صلاحية الباقة"
+    }
+  ]
+}
